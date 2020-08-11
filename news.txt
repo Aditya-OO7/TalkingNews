@@ -1,0 +1,6 @@
+Heading : Google and Canonical Bring Flutter Apps To Linux and the Snap Store
+Description : An anonymous reader writes: Google is partnering with the Ubuntu Desktop team at Canonical to bring Linux support to its open source UI framework Flutter. Today's Linux alpha announcement also means Flutter developers can now deploy their apps to the Snap Sto…
+Heading : Google y Ubuntu unen sus fuerzas para llevar las aplicaciones Flutter también a Linux
+Description : Hace unos días, Google y Canonical (desarrolladores de Ubuntu Linux) hicieron un anuncio que, pese a su potencial importancia, ha pasado algo desapercibido: el lanzamiento de una versión (alfa) de Flutter para el sistema operativo Linux.
+<!-- BREAK 1 -->
+Flut…
